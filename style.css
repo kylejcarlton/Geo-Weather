@@ -1,0 +1,17 @@
+body {
+  background-color: #34495E;
+}
+
+h2 {
+  text-align:center;
+  color: #fff;
+}
+
+#conditions {
+  padding-top: 50px;
+}
+
+img {
+  display:block;
+  margin: auto;
+}
